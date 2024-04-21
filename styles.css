@@ -23,3 +23,16 @@ main{
     height: 50px;
 }
 
+div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+p{
+    font-size: 24px;
+    text-align: center;
+}
+
